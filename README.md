@@ -1,3 +1,8 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<p align = "center">
+  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ravindu Malith</h1>
 <h3 align="center">A passionate frontend/backend developer from Sri Lanka</h3>
 
