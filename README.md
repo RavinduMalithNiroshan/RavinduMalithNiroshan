@@ -17,17 +17,17 @@
 
 - :school: I’m a `Student` at  the National Institute of Business Management.
 - :technologist: I love using Software to solve every `Problem`.
-- :student: I’m currently learning `Frontend Development`.
+- :student: I’m currently learning `Full Stack Development`.
 
 
 
-- 🔭 I’m currently working on **AWS, React, JavaScript, Nodejs, MongoDB**
+- 🔭 I’m currently working on **ASP.NET Core, React, Angular, Nodejs, MY SQL, MongoDB**
 
 - 💬 Ask me about **C#, .NET Framework**
 
 - :nerd_face: Always learning **new things**
 
-- 📫 Feel free to reach me out **ravindumalith@gmail.com**
+- 📫 Feel free to reach me out **ravindumalith15@gmail.com**
 
 <!--Intro end-->
 
